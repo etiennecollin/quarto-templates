@@ -3,7 +3,7 @@
 ## Installing
 
 ```bash
-quarto use template etiennecollin/quarto-templates/typst-basic
+quarto use template etiennecollin/quarto-templates/basic
 ```
 
 This will install the format extension and create an example qmd file
